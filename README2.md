@@ -65,3 +65,6 @@ Sequence of operation of the whole system
 Usage
 ------
 시연 영상 : [https://youtu.be/Cik78MP8W3E](https://youtu.be/Cik78MP8W3E)
+<br/>
+관련 포스팅 : [https://ohjinjin.github.io/projects/IPLI/](https://ohjinjin.github.io/projects/IPLI/)
+<br/>
