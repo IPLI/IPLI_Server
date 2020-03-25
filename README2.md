@@ -68,3 +68,4 @@ Usage
 <br/>
 관련 포스팅 : [https://ohjinjin.github.io/projects/IPLI/](https://ohjinjin.github.io/projects/IPLI/)
 <br/>
+KIC 사이트 : [https://statkclee.github.io/kic2020/#pr](https://statkclee.github.io/kic2020/#pr)
